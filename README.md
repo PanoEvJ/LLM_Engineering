@@ -54,3 +54,7 @@ We believe in the power of collaboration. Contributions, ideas, and feedback are
 Feel free to reach out with any questions or suggestions. Happy coding! 🚀🔮
 
 👤 Follow us on [Twitter](https://twitter.com/AIMakerspace) and [LinkedIn](https://www.linkedin.com/company/ai-maker-space) for the latest news!
+
+# Repo
+
+[AI Makerspace](https://github.com/AI-Maker-Space/LLM-Engineering-The-Foundations-Cohort-1)
