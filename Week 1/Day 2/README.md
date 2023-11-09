@@ -12,6 +12,10 @@ We will train a GPT-style decoder-only model from scratch on Shakespeare data. Y
 
 Ship a completed notebook to us! There are a few questions found throughout the notebook that will need to be answered.
 
+Provide a URL to your loom video walkthrough
+
 ## Share 🚀
 
 Share about your experience in a LinkedIn post, or in the Discord!
+
+Submit your homework direclty [here](https://docs.google.com/forms/d/e/1FAIpQLSfPafkG04mgjkHGulYI_SumYZa602mCa8e5CguymkjqcXi6nQ/viewform?usp=sf_link)
