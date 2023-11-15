@@ -16,4 +16,4 @@ Provide a URL to your loom video walkthrough
 
 Share about your experience in a LinkedIn post, or in the Discord!
 
-Submit your homework direclty [here](https://docs.google.com/forms/d/e/1FAIpQLSfhEa9Qh3ezmNKar2oaKSp9-qmadupS5SHqMii3cjuln7cwtQ/viewform?usp=sf_link)
+Submit your homework direclty [here](https://docs.google.com/forms/d/e/1FAIpQLSfZNG8UaBkupbT62p2MZrTpn11TufjSiQpui1AMGiBXJ0sdDQ/viewform?usp=sf_link)
