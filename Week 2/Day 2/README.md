@@ -1,4 +1,4 @@
-# Generative Supervised Fine-tuning of GPT-2
+# Instruction Tuning of Llama-2
 
 Today we'll be working through a notebook focused on instruct-tuning LLaMA 2!
 
